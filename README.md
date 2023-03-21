@@ -27,7 +27,7 @@ ECDSA is also used in Ethereum for key management, where public-private key pair
 
 ## Math behind ECDSA
 
-![image](https://user-images.githubusercontent.com/45846424/226655335-3a019849-9c5a-4260-805a-364800d3c1eb.png)
+![image](https://user-images.githubusercontent.com/45846424/226664741-98b03fca-6d06-4ff2-983b-84eeb3e0f6a8.png)
 
 ECDSA (Elliptic Curve Digital Signature Algorithm) is a type of digital signature algorithm that uses the mathematics of elliptic curves to provide strong security with relatively little computational power. Here is a brief overview of the math behind ECDSA:
 
@@ -188,7 +188,7 @@ Let's deploy this code on Remix-ide.
 
 And after specifying the parameters we recovered the address.
 
-![Screenshot from 2023-03-21 18-08-45](https://user-images.githubusercontent.com/45846424/226653707-5c766e09-a8cb-4544-a8d3-cf221ad118c2.png)
+![Screenshot from 2023-03-21 18-08-45](https://user-images.githubusercontent.com/45846424/226665336-04f24a5e-1031-44cc-93ca-de545a4b4b8f.png)
 
 And let's check this address that equals our signer address.
 
